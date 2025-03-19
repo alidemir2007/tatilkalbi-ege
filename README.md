@@ -1,7 +1,5 @@
 # tatilkalbi-ege
 https://www.tatilkalbi.com/turlar/ege-turlari
-
-```markdown
 # **[Ege Turları](https://www.tatilkalbi.com/turlar/ege-turlari): Türkiye’nin En Güzel Kıyılarını Keşfedin**  
 
 🌊 **Turkuaz sular, antik kentler, doğayla iç içe tatil rotaları!**  
@@ -83,4 +81,3 @@ https://www.tatilkalbi.com/turlar/ege-turlari
 📍 **[Tatil Kalbi](https://www.tatilkalbi.com/)** ile lüks, konforlu ve eğlenceli bir seyahat planlayın!  
 
 🌊 **Şimdi rezervasyon yapın, Ege’nin büyüleyici atmosferinde unutulmaz bir tatil yaşayın!** 🌊
-```
